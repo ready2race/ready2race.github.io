@@ -21,7 +21,16 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+
 **Bold** and _Italic_ and `Code` text
+
+
+`
+$ ssh-keygen -t rsa -C "邮件地址@youremail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/	your_user_directory/.ssh/id_rsa):<回车就好>
+`
 
 [Link](url) and ![Image](src)
 ```
@@ -37,8 +46,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-`
-$ ssh-keygen -t rsa -C "邮件地址@youremail.com"
-Generating public/private rsa key pair.
-Enter file in which to save the key (/Users/	your_user_directory/.ssh/id_rsa):<回车就好>
-`
