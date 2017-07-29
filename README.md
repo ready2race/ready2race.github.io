@@ -24,15 +24,23 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
-## code
+### Code
+[root@bogon ~]# df -h
+文件系统                 容量  已用  可用 已用% 挂载点
+/dev/mapper/centos-root   37G   19G   18G   52% /
+devtmpfs                 906M     0  906M    0% /dev
+tmpfs                    921M   88K  920M    1% /dev/shm
+tmpfs                    921M  8.9M  912M    1% /run
+tmpfs                    921M     0  921M    0% /sys/fs/cgroup
+/dev/sda1                497M  157M  341M   32% /boot
+tmpfs                    185M  4.0K  184M    1% /run/user/42
+tmpfs                    185M     0  185M    0% /run/user/1002
+tmpfs                    185M   20K  184M    1% /run/user/0
+[root@bogon ~]# 
 `
-$ ssh-keygen -t rsa -C "邮件地址@youremail.com"
-Generating public/private rsa key pair.
-Enter file in which to save the key (/Users/	your_user_directory/.ssh/id_rsa):<回车就好>
-`
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
