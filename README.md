@@ -21,20 +21,17 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-
-
 **Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Image](src)
+```
 
+## code
 `
 $ ssh-keygen -t rsa -C "邮件地址@youremail.com"
 Generating public/private rsa key pair.
 Enter file in which to save the key (/Users/	your_user_directory/.ssh/id_rsa):<回车就好>
 `
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
