@@ -28,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ```
 
 ### Code
-`
+```
 [root@bogon ~]# df -h
 文件系统                 容量  已用  可用 已用% 挂载点
 /dev/mapper/centos-root   37G   19G   18G   52% /
@@ -41,7 +41,7 @@ tmpfs                    185M  4.0K  184M    1% /run/user/42
 tmpfs                    185M     0  185M    0% /run/user/1002
 tmpfs                    185M   20K  184M    1% /run/user/0
 [root@bogon ~]# 
-`
+```
 
 ### Jekyll Themes
 
