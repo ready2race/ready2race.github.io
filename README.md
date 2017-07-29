@@ -28,6 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ```
 
 ### Code
+`
 [root@bogon ~]# df -h
 文件系统                 容量  已用  可用 已用% 挂载点
 /dev/mapper/centos-root   37G   19G   18G   52% /
