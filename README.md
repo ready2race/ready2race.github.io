@@ -24,11 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 
 ### Code
-```
+```bash
 [root@bogon ~]# df -h
 文件系统                 容量  已用  可用 已用% 挂载点
 /dev/mapper/centos-root   37G   19G   18G   52% /
@@ -42,7 +41,7 @@ tmpfs                    185M     0  185M    0% /run/user/1002
 tmpfs                    185M   20K  184M    1% /run/user/0
 [root@bogon ~]# 
 ```
-
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ready2race/ready2race.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
